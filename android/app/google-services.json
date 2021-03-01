@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "871928258856",
+    "project_id": "absen-app-7b531",
+    "storage_bucket": "absen-app-7b531.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871928258856:android:aaa32c005dc682a431b01d",
+        "android_client_info": {
+          "package_name": "com.ujian260221"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871928258856-v525no0f7koknav95l4pg2uvo1t1kqo9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHLK7ke1f51qh6tKevTEx1Skuz_uwHZO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871928258856-v525no0f7koknav95l4pg2uvo1t1kqo9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871928258856:android:594950fe567fb76231b01d",
+        "android_client_info": {
+          "package_name": "com.ujianabsensi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871928258856-v525no0f7koknav95l4pg2uvo1t1kqo9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHLK7ke1f51qh6tKevTEx1Skuz_uwHZO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871928258856-v525no0f7koknav95l4pg2uvo1t1kqo9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
